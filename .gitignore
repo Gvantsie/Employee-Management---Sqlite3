@@ -1,0 +1,9 @@
+venv
+__pycache__
+.idea
+
+*.pyc
+identifyer.sqlite
+README.md
+```
+
